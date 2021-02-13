@@ -1,3 +1,4 @@
+
 def camelcase(snakecase):
     str_lst = snakecase.split("_")
     cs=''
